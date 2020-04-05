@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Synthesizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Synthesizer_jar</output-path>
+    <root id="archive" name="Synthesizer.jar">
+      <element id="module-output" name="Synthesizer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-macos.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-macos.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
